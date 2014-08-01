@@ -1,12 +1,15 @@
+---
+layout: post
+title:  "Law"
+date:   2014-07-16 23:39:35
+categories: project
+---
 
 
+* This will become a table of contents (this text will be scraped).
+{:toc}
 
 
-# Professional Practice Exam: Ethics & Law
-
-Freely adapted from a ragged powerpoint slideshow printout of unknown provenance.
-
-# Law
 
 ## Legislation
 
@@ -23,26 +26,24 @@ For example:
 
 Cases (Judge-made law)
 
-Theory of Precedent: apply legal priciples established by similar or analogous situations to the current situation.
+Theory of Precedent: apply legal principles established by similar or analogous situations to the current situation.
 
 Changes slowly over time.
 
 
 ## Structure of the Courts
 
-```
 
-    Canada                      England
-    
- Supreme Court of Canada     House of Lords
-           /\                      /\
-           ||                      ||
-     Court of Appeal         Court of Appeal
-           /\                      /\
-           ||                      ||
-Superior Court of Justice      Trial Judge
+             Canada                 England
+        
+     Supreme Court of Canada     House of Lords
+               /\                      /\
+               ||                      ||
+         Court of Appeal         Court of Appeal
+               /\                      /\
+               ||                      ||
+    Superior Court of Justice      Trial Judge
 
-```
 
 
 ## The Burden of Proof
@@ -284,9 +285,147 @@ Often, a *Force Majeur* provision will be included in a contract.  This generall
 **Davis Contractors** -- it was not considered frustration of contract when a shortage of labour delayed completion of a project. It simply placed more onerous terms on the parties.
 
 
+### Breach of Contract
+
+Breach of contract occurs if a party fails to perform their obligations under the contract.  Whenever there is a breach of contract, the other party may recover damages.  However, the contract is not always discharged at this point.  The contract is only discharged when:
+
+* There is no reason for the innocent party to proceed with their performance of the contract,
+* There is an intention to no longer be bound by the contract, or
+* A term that is of major importance to the contract is broken.
+
+It is only considered a breach of contract when a condition has been breach.  A condition is defined as an obligation that is essential or vital to the contract.
+
+A breach of a warranty is not considered a breach of contract, as a warranty does not meet the standard of "an obligation essential to the contract".
+
+
+### Repudiation of Contract
+
+When one party expressly tells (by word or conduct) the other party that they have no intention to perform their obligations under the contract, it is considered repudiation.  This can be due to an inability to perform, or other reasons.  The innocent party can either ignore the breach, or assume that the contract has been discharged by repudiation and claim damages.  They are expected to communicate this to the repudiating party.
+
+
+## Remedies
+
+The non-defaulting party is entitled to monetary damages for breach of contract.
+
+**Hadley v Baxendale** -- The innocent party is entitled to damages that are fair and reasonable.  The damages should be those that flow naturally from the breach of contract, or are commensurate with the probable or reasonably foreseeable result of the breach of contract.
+
+
+### Types of Damages
+
+*Direct Damages* are the amount of the loss suffered as a direct result of the breach of contract.  For example, the extra cost incurred by the party beyond the original contract price.
+
+*Indirect Damages* encompass all other losses suffered due to the breach of contract, such as loss of profits, fines, etc.
+
+
+### Duty to Mitigate
+
+Parties must take reasonable steps to mitigate or reduce the amount of damages suffered.  If a plaintiff did not take reasonable actions to mitigate damage, the court will take this into account when fixing the size of the damages awarded.
+
+
+### Penalty Clauses
+
+These can be included in contracts, and establish a prescribed amount to be paid in damages if a certain event occurs. This amount is referred to as *Liquidated Damages*. Parties must make a genuine attempt when entering in to the contract to estimate the likely damages the event would cause.  If the estimate is not reasonable, the court is unlikely to uphold the penalty clause.  
+
+
+### Fundamental Breach
+
+In many cases, companies try to limit their liability (typically to the full value of the contract) should anything go wrong.  This is done through *Exclusion Clauses*.  However, traditionally in the event of a fundamental breach, exclusion clauses were ignored.
+
+**Harbutt's Plasticine** -- *A case from England.* A plastic pipe designed to carry plasticine cracked and the entire factory burnt down.  The design of the pipe was totally unsuitable for the purpose it was used for. The contractor was held to be in fundamental breach of the contract and could not rely on the exclusion clause which would have limited damages to a nominal amount.
+
+The Harbutt's precedent was traditionally followed in Canadian courts, but they have been moving away from this principle.  The precedent set by Harbutt's was overturned by the Photo Production Ltd. case.
+
+**Photo Production Ltd.** -- *Another English case.* The contract was for security services.  One of the security guards accidentally started a fire which destroyed the factory.  The contract contained a broad exemption clause, and in an appeal to the House of Lords this clause was upheld.  The security contractor was permitted to rely on the exemption clause to limit their liability.
+
+The takeaway from this is that a contract should contain all essential terms in an express form.  Parties are free to negotiate all of the terms of a contract.
+
+**Murray v. Sperry Rand** -- *Ontario Court of Appeal.* A farmer purchased a harvester which did not perform as promised, having disastrous results on his land.  The decision was made based on the Harbutt's Plasticine case, with the court stating that an exclusion clause cannot be used as a cover for misconduct or indifference.
+
+**Beaufort Realties** -- A subcontractor working on a project was not paid.  The Ontario Court of Appeals determined that this was a fundamental breach of contract, and additionally it would not be fair and equitable for the subcontractor to not be paid.  The Supreme Court of Canada upheld this, but stated that where there is a fundamental breach, it is necessary to examine the true construction and meaning of the contract, rather than relying on Harbutt's Plasticine.  The Supreme Court determined that the waiver did not apply even though it was clear.
+
+**Syncrude v. Hunter Engineering** -- *Supreme Court of Canada.* Hunter supplied Syncrude with gear boxes, and these subsequently failed.  The gear boxes were rebuilt, and Syncrude sued for the cost.  The warranty clause of the contract had expressly denied all warranties, including the statutory warranties under the Sales of Goods Act.  The Court unanimously ruled that Hunter was not liable.  They stated that exemption clauses are effective if the language is clear and leaves no doubt as to the meaning.  Parties are free to contract as they wish, and in this case there was no evidence of unconscionability or unequal bargaining power.
+
+Therefore, clear and direct exemption clauses, where the parties are of equal power, will be upheld.
+
+
+## Tort Law
+
+The purpose of Tort Law is to compensate victims for the wrong they suffered.
+
+
+## Negligence
+
+Based on the principle that people are responsible for their negligent behaviour.  However, this does not mean that they are liable or responsible for every error in judgement.
+
+It does not mean that parties are expected to have an extraordinary degree of care and skill, nor does it require them to guarantee success or achieve perfect results.
+
+Not all errors are negligent.  For example, if an engineer is required to used old technology at the time the services are performed, errors might occur despite the fact that the engineer made every possible effort at the time.
+
+The *Professional Engineers Act of Ontario* defines negligence as:
+
+> An act or omission in the carrying out of work of a practitioner that constitutes a failure to maintain the standards that a reasonable and prudent practitioner would maintain in the circumstances.
+
+### History of Tort Law
+
+Traditionally, a person was only liable for the injuries suffered by another person if there was a contract between them. Then:
+
+**Donoghue v. Stevenson** -- Two people drank a ginger beer at a diner.  One of them purchased the ginger beer for the other, and gave it to them freely.  There was a snail in the ginger beer given to the second person, and they became sick.  This was due to a fault on the part of the manufacturer (not the retail store).  The injured person did not have a contract with the retail store, or the manufacturer.  However, the courts said that the manufacturer was responsible for taking reasonable steps to ensure the ginger beer was free from any defect likely to cause injury.
+
+**Hedley Byrne** -- Confirmed the principles of Donoghue v. Stevenson.  A company asked its bankers to look into the credit rating of a supplier.  The bankers reported that the financial position was favourable, but stated that they were "not responsible" for their advice.  The plaintiff continued to do business with the supplier, and incurred losses as a result.  The court determined that where one person relied on the specialized skills of another and that other knew of the reliance, they were duty-bound to take reasonable care in exercising their skill.  However, the bank was still found not responsible as a result of the language disclaiming their advice.
+
+Note that there is an expectation for professional not to give negligent advice, and they cannot disclaim responsibility.
+
+Sometimes, parties are not responsible to all third parties for damages - they can disclaim responsibilities to third parties via express terms.
+
+Other cases have also found that parties can be held accountable for negligence, even if they feel that they are not being relied upon.  What matters is what their conduct objectively makes the other party believe or think.  For example the Canama Contracting case, which involved a manure pit on a pig farm, for which they relied on the advice of a government engineer.
+
+### Principles of Tort Law
+
+The key criteria that must be met for a case to be considered under tort law are:
+
+1. The defendant owed the plaintiff a duty of care.
+2. The defendant breached the duty of care by their conduct.
+3. The defendant's conduct cause the plaintiff's damages/injuries.
+
+
+### Breach of Duty of Care
+
+An engineer must conduct their services in accordance with the conduct of a prudent and diligent engineer in the circumstances.
+
+For specialists, a higher degree of skill is expected.  The reasonable expectation is that they should exercise the degree of skill of an average specialist in their field.
+
+
+### Causation
+
+Did the engineer's conduct cause the injuries suffered by the plaintiff?
+
+    Conduct  -->  Causation  -->  Injury/damages
+
+In most cases, it is clear that there was causation.
+
+
+### Damages
+
+*Direct Damages*: those damages suffered by the plaintiff as a result of the negligence or breach of contract.
+
+*Indirect* or *Consequential Damages*: damages that arise in consequence to the breach of contract, such as fines, lost profits, etc.
+
+Whether or not the damages were *foreseeable* as a result of the engineer's conduct plays a role in the determining the damages awarded.
+
+Where the damages were foreseeable, the plaintiff may recover damages for economic loss where no threat of injury or physical harm to property exists.  See the **Winnepeg Condominiums** case.
+
+
+### Economic Loss
+
+Economic loss caused by negligence may sometimes be recovered, as in the **Hedley Byrne** case.  In product liability matters, economic losses caused by the use of a defective product are sometimes recoverable.  For example, in the **Rivtow** case, the defendant was responsible for loss of profits while the "crane" was being repaired.
+
+However, they are not always recoverable.  For example, when damage to an electrical cable interrupts work and employees are sent home, a defendant cannot be held liable for the employees salaries as they would have been paid in any event.
 
 
 
+### Other Tort Concepts
+
+p54
 
 
 
@@ -294,8 +433,8 @@ Often, a *Force Majeur* provision will be included in a contract.  This generall
 
 4 questions
 
-* #1 will be a Definition question
-* #2, #3, #4 will be Case questions
+* \#1 will be a Definition question
+* \#2, #3, #4 will be Case questions
 
 Short answer questions are possible, but rare.  They could be regarding "legality of purpose", "unilateral mistakes in the tendering process", or "disclaimer in tort"
 

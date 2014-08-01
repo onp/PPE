@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Professional Practice Exam: Ethics & Law"
+---
+
+<div id="home">
+
+    <p>Study notes for Professional Engineers of Ontario's (PEO) Professional Practice Exam.</p>
+    <p>Freely adapted from a ragged powerpoint slideshow printout of unknown provenance.</p>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
+</div>
