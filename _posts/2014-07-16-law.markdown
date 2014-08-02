@@ -425,7 +425,94 @@ However, they are not always recoverable.  For example, when damage to an electr
 
 ### Other Tort Concepts
 
-p54
+*Vicarious Liability*: an employer is vicariously liable for the negliegent acts of its employees for acts within the scope of authority and course of employment.
+
+*Concurrent Tortfeasors*: two or more people who are all considered responsible for the damages caused.
+
+
+### Product Liability
+
+When damage results from the use of a product, Tort Law (negligence) can apply. The **Donoghue v. Stevenson** case expanded this to include the relationship between manufacturers and consumers.
+
+Contract law is also applicable, due to the implied terms of a sales contract.  Specifically, these include *Merchantability* and *Fitness* for a particular purpose.
+
+
+### Duty to Warn
+
+A manufacturer must warn the consumer of any dangerous potential of the product by appropriate labelling.
+
+**George Ho Lern** -- A hunter purchased a shot-shell reloading machine.  He was told that the machine would produce normal shell shots if the instructions were followed.  However, the Plaintiff did not follow the verbal or written instructions provided.  The defendant was found not responsible, as they had provided adequate notice.
+
+It is also important that labels be specific:
+
+**Lambert** -- *Supreme Court of Canada.* This decision found that manufacturers must be held to a high standard of care to specifically warn of all dangers. The label was found to not have been specific enough.
+
+
+## Miscellaneous topics to research elsewhere
+
+* Business Organizations
+* The agreement between client & engineer
+* Concurrent liability in tort and contract
+* The duty of honesty
+* Construction contracts
+* Arbitration and ADR
+* Lien legislation
+* Regulatory aspects and ethics
+* Industrial property
+* Laws relating to employment
+
+### Corporations
+
+Directors are elected by the shareholders to direct the corporation.  They are held to a high standard of care and expected to:
+
+* Act honestly and in good faith with a view to the best interests of the corporation.
+* Exercise with care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances.
+* Disclose any conflicts of interest.
+
+
+### Construction Contracts
+
+Engineers may prepare plans, assist in tendering, and administer construction contracts, however they generally are not a party to the construction contract.
+
+Engineers are expected to act judicially if empowered to make decisions that are final and binding.  They should act independently of the owner and in good faith, not as the agent of the owner. See the **Brennan** case -- they should act as though not being paid by the owner.
+
+
+### Inspection Services
+
+An engineer must exercise a reasonable duty of care and skill and discharge responsibilities competently.  They must inspect all significant aspects of construction personally, or by a competent representative.
+
+
+### Lien Legislation
+
+Provincial legislation creates lien rights and requires amounts to be held back from contractors for a specific period of time.  Parties are entitled to a lien if they supply services or materials to an "improvement".  This can include engineering services.
+
+When the owner receives notice of a lien, they are then required to retain both the holdback amount (typically 10%) and the amount of the lien claim (which cannot exceed the amount of services and materials provided).
+
+If they do not, the owner may be liable to pay the lien claim and may be forced to sell the land.
+
+
+### Construction Lien Act
+
+Holdbacks will be equal to 10% of the price of the services or materials as they are supplied.
+
+There can be 2 holdbacks: the first for *Substantial Completion* of the work or services, and the second for finishing work.
+
+The holdback will be released when all liens that may be cliamed have expired, been satisfied, discharged, or paid into court.
+
+*Substantial Completion* can be defined in several ways:
+
+* When all work is completed.
+* When a substantial part is completed and it is being used for its intended purpose.
+* When the work completed exceeds a specified percentage of the contract price.
+
+
+### The Ontario Human Rights Code
+
+Every person has a right to equal treatment with respect to employment without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, age, martial status, family status, record of offences or handicap.
+
+
+
+
 
 
 
@@ -438,4 +525,55 @@ p54
 
 Short answer questions are possible, but rare.  They could be regarding "legality of purpose", "unilateral mistakes in the tendering process", or "disclaimer in tort"
 
-Case Questions are not looking for the correct answer, number, or a yes/no decision.  Answers should demonstrate your knowledge of the legal principles.
+Case questions are not looking for the correct answer, number, or a yes/no decision.  Answers should demonstrate your knowledge of the legal principles.
+
+
+### Law case questions
+
+Tort questions are generally of the form: "What potential liabilities arise in tort law? In your answer explain what principles of tort law are relevant and how each applies to the case."
+
+Contract questions are generally about Equitable Estoppel, Fundamental Breach, Unilateral Mistake, or Legality of Purpose.
+
+*Equitable Estoppel*
+
+Situation: Two parties renegotiate the terms of a contract, and both parties acted as if there was a "new" contract, but no consideration is given, and there was an element of unfairness
+
+Question: Was XYZ company entitled to terminate the contract? Explain the relevant legal principle, how it arises and how it should be applied in this situation.
+
+*Fundamental Breach*
+
+Situation: An exclusion clause limiting liability was included in a contract.  The product or service provided under the contract was grossly inadequate.
+
+Question: Explain and discuss what claim XYZ company can make against ABC company in the circumstances.  In answering, explain the approach taken by Canadian courts with respect to the contracts that limit liability and include a brief summary of the development of relevant case precedents.
+
+*Unilateral Mistake*
+
+Situation: A mistake was made in the tendering process, and one party wants the deposit returned.
+
+*Legality of Purpose*
+
+These often regard non-compete clauses.
+
+
+at p58, law long answer questions template.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
